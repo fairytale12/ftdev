@@ -1,0 +1,92 @@
+.logo img {
+    border: none;
+}
+
+body, .logo-text h1 {
+    font-family: 'Georgia', cursive;
+}
+
+ul.social-icons a {
+    color: #ffffff;
+}
+
+ul.social-icons a .fa {
+    font-size: 28px;
+}
+
+ul.social-icons a .fa.fa-skype {
+    font-size: 31px;
+}
+
+.contant-info {
+    font-size: 16px;
+}
+
+.awards li {
+    min-height: 30px;
+}
+
+.certifficate-preview {
+    width: 140px;
+    height: 140px;
+    text-align: center;
+    vertical-align: middle;
+    margin: 0 0 20px 0;
+}
+
+.portfolio-text {
+    max-width: 940px;
+    margin: 0px auto 20px auto;
+}
+
+.portfolio-text .without-left-margin {
+    margin-left: 0;
+}
+
+.portfolio-block {
+    width: 220px;
+    float: left;
+    min-height: 1px;
+    margin-left: 20px;
+}
+.gallery-small .bg {
+    background: rgba(0, 0, 0, 0.5) url(/images/info.png) no-repeat 50% 50%;
+    height: 100%;
+    width: 100%;
+}
+
+.popup-block {
+    display: none;
+    color: #000000;
+}
+
+.popup-block h2 {
+    color: #000;
+}
+
+.category-list ul li a:hover, .category-list ul li a.selected {
+    color: #ab3300;
+}
+
+.without-left-margin {
+    margin-left: 0 !important;
+}
+
+pre {
+    padding: 0;
+    border: none;
+    background-color: #212121;
+}
+
+#content .nav a {
+    width: 234px;
+}
+
+.block404 {
+	text-align: center; 
+	margin-top: 10px;
+}
+
+#ef-loader-overlay {
+	background: url('/images/loading.gif') no-repeat scroll center center #cc982a;
+}

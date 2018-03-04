@@ -1,0 +1,10 @@
+/* --------------------------------------------------------
+Import Basic Files
+-------------------------------------------------------- */
+@import url("normalize.css");			/* Reset Style */
+@import url("bootstrap.css");			/* Grid Style */
+@import url("font-awesome.min.css");	/* Icon Font Style */
+@import url("prettyPhoto.css");			/* Light Style */
+@import url("layout.css");				/* Main Layout Style */
+@import url("flexslider.css");				/* Main Layout Style */
+@import url("hoverex-all.min.css");		/* Animated Hover Style */
