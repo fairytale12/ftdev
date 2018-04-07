@@ -1,5 +1,5 @@
 <?
-require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php"); //
 $APPLICATION->SetPageProperty("NOT_SHOW_NAV_CHAIN", "Y");
 $APPLICATION->SetTitle("Обо мне");
 $APPLICATION->SetPageProperty('title', "Вадим Цветков - персональный сайт веб-программиста CMS 1С-Битрикс");
