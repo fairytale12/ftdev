@@ -1,7 +1,7 @@
-/bitrix/
-/bitrix/*
-/upload/
-/upload/*
+bitrix
+bitrix/*
+upload
+upload/*
 composer.json
 composer.lock
 web.config
